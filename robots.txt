@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pureair.ghazyfinal.workers.dev/sitemap.xml
